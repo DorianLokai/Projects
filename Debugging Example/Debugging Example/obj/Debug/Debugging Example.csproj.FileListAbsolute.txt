@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\Debugging Example\Debugging Example\obj\Debug\Debugging Example.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Debugging Example\Debugging Example\obj\Debug\Debugging_Example.DebuggingExampleForm.resources
+C:\Users\Seth\source\repos\Debugging Example\Debugging Example\obj\Debug\Debugging_Example.Properties.Resources.resources
+C:\Users\Seth\source\repos\Debugging Example\Debugging Example\obj\Debug\Debugging Example.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Debugging Example\Debugging Example\obj\Debug\Debugging Example.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Debugging Example\Debugging Example\bin\Debug\Debugging Example.exe.config
+C:\Users\Seth\source\repos\Debugging Example\Debugging Example\bin\Debug\Debugging Example.exe
+C:\Users\Seth\source\repos\Debugging Example\Debugging Example\bin\Debug\Debugging Example.pdb
+C:\Users\Seth\source\repos\Debugging Example\Debugging Example\obj\Debug\Debugging Example.exe
+C:\Users\Seth\source\repos\Debugging Example\Debugging Example\obj\Debug\Debugging Example.pdb

@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\Fading Form\Fading Form\bin\Debug\Fading Form.exe.config
+C:\Users\Seth\source\repos\Fading Form\Fading Form\bin\Debug\Fading Form.exe
+C:\Users\Seth\source\repos\Fading Form\Fading Form\bin\Debug\Fading Form.pdb
+C:\Users\Seth\source\repos\Fading Form\Fading Form\obj\Debug\Fading Form.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Fading Form\Fading Form\obj\Debug\Fading_Form.FadingFormForm.resources
+C:\Users\Seth\source\repos\Fading Form\Fading Form\obj\Debug\Fading_Form.Properties.Resources.resources
+C:\Users\Seth\source\repos\Fading Form\Fading Form\obj\Debug\Fading Form.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Fading Form\Fading Form\obj\Debug\Fading Form.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Fading Form\Fading Form\obj\Debug\Fading Form.exe
+C:\Users\Seth\source\repos\Fading Form\Fading Form\obj\Debug\Fading Form.pdb
