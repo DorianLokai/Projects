@@ -1,0 +1,9 @@
+C:\Users\Seth\source\repos\Mouse Paint\Mouse Paint\bin\Debug\Mouse Paint.exe.config
+C:\Users\Seth\source\repos\Mouse Paint\Mouse Paint\bin\Debug\Mouse Paint.exe
+C:\Users\Seth\source\repos\Mouse Paint\Mouse Paint\bin\Debug\Mouse Paint.pdb
+C:\Users\Seth\source\repos\Mouse Paint\Mouse Paint\obj\Debug\Mouse_Paint.MainForm.resources
+C:\Users\Seth\source\repos\Mouse Paint\Mouse Paint\obj\Debug\Mouse_Paint.Properties.Resources.resources
+C:\Users\Seth\source\repos\Mouse Paint\Mouse Paint\obj\Debug\Mouse Paint.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Mouse Paint\Mouse Paint\obj\Debug\Mouse Paint.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Mouse Paint\Mouse Paint\obj\Debug\Mouse Paint.exe
+C:\Users\Seth\source\repos\Mouse Paint\Mouse Paint\obj\Debug\Mouse Paint.pdb

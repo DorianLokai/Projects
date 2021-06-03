@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\Persisting Graphics\Persisting Graphics\bin\Debug\Persisting Graphics.exe.config
+C:\Users\Seth\source\repos\Persisting Graphics\Persisting Graphics\bin\Debug\Persisting Graphics.exe
+C:\Users\Seth\source\repos\Persisting Graphics\Persisting Graphics\bin\Debug\Persisting Graphics.pdb
+C:\Users\Seth\source\repos\Persisting Graphics\Persisting Graphics\obj\Debug\Persisting Graphics.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Persisting Graphics\Persisting Graphics\obj\Debug\Persisting_Graphics.MainForm.resources
+C:\Users\Seth\source\repos\Persisting Graphics\Persisting Graphics\obj\Debug\Persisting_Graphics.Properties.Resources.resources
+C:\Users\Seth\source\repos\Persisting Graphics\Persisting Graphics\obj\Debug\Persisting Graphics.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Persisting Graphics\Persisting Graphics\obj\Debug\Persisting Graphics.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Persisting Graphics\Persisting Graphics\obj\Debug\Persisting Graphics.exe
+C:\Users\Seth\source\repos\Persisting Graphics\Persisting Graphics\obj\Debug\Persisting Graphics.pdb

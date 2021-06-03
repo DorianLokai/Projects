@@ -1,0 +1,16 @@
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.ViewerForm.resources
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.OptionsForm.resources
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.LogViewerForm.resources
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.manifest
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.application
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe.manifest
+C:\Users\Seth\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.application

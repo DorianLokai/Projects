@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\Structured Exception Handling\Structured Exception Handling\bin\Debug\Structured Exception Handling.exe.config
+C:\Users\Seth\source\repos\Structured Exception Handling\Structured Exception Handling\bin\Debug\Structured Exception Handling.exe
+C:\Users\Seth\source\repos\Structured Exception Handling\Structured Exception Handling\bin\Debug\Structured Exception Handling.pdb
+C:\Users\Seth\source\repos\Structured Exception Handling\Structured Exception Handling\obj\Debug\Structured Exception Handling.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Structured Exception Handling\Structured Exception Handling\obj\Debug\Structured_Exception_Handling.ExceptionHandlingExampleForm.resources
+C:\Users\Seth\source\repos\Structured Exception Handling\Structured Exception Handling\obj\Debug\Structured_Exception_Handling.Properties.Resources.resources
+C:\Users\Seth\source\repos\Structured Exception Handling\Structured Exception Handling\obj\Debug\Structured Exception Handling.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Structured Exception Handling\Structured Exception Handling\obj\Debug\Structured Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Structured Exception Handling\Structured Exception Handling\obj\Debug\Structured Exception Handling.exe
+C:\Users\Seth\source\repos\Structured Exception Handling\Structured Exception Handling\obj\Debug\Structured Exception Handling.pdb

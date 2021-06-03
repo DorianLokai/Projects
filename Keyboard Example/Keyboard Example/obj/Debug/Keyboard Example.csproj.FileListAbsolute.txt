@@ -1,0 +1,9 @@
+C:\Users\Seth\source\repos\Keyboard Example\Keyboard Example\bin\Debug\Keyboard Example.exe.config
+C:\Users\Seth\source\repos\Keyboard Example\Keyboard Example\bin\Debug\Keyboard Example.exe
+C:\Users\Seth\source\repos\Keyboard Example\Keyboard Example\bin\Debug\Keyboard Example.pdb
+C:\Users\Seth\source\repos\Keyboard Example\Keyboard Example\obj\Debug\Keyboard_Example.KeyboardExampleForm.resources
+C:\Users\Seth\source\repos\Keyboard Example\Keyboard Example\obj\Debug\Keyboard_Example.Properties.Resources.resources
+C:\Users\Seth\source\repos\Keyboard Example\Keyboard Example\obj\Debug\Keyboard Example.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Keyboard Example\Keyboard Example\obj\Debug\Keyboard Example.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Keyboard Example\Keyboard Example\obj\Debug\Keyboard Example.exe
+C:\Users\Seth\source\repos\Keyboard Example\Keyboard Example\obj\Debug\Keyboard Example.pdb

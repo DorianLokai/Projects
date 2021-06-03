@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\Switch Example\Switch Example\bin\Debug\Switch Example.exe.config
+C:\Users\Seth\source\repos\Switch Example\Switch Example\bin\Debug\Switch Example.exe
+C:\Users\Seth\source\repos\Switch Example\Switch Example\bin\Debug\Switch Example.pdb
+C:\Users\Seth\source\repos\Switch Example\Switch Example\obj\Debug\Switch Example.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Switch Example\Switch Example\obj\Debug\Switch_Example.Properties.Resources.resources
+C:\Users\Seth\source\repos\Switch Example\Switch Example\obj\Debug\Switch_Example.SwitchExampleForm.resources
+C:\Users\Seth\source\repos\Switch Example\Switch Example\obj\Debug\Switch Example.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Switch Example\Switch Example\obj\Debug\Switch Example.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Switch Example\Switch Example\obj\Debug\Switch Example.exe
+C:\Users\Seth\source\repos\Switch Example\Switch Example\obj\Debug\Switch Example.pdb

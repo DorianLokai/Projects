@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\Manipulating Files\Manipulating Files\bin\Debug\Manipulating Files.exe.config
+C:\Users\Seth\source\repos\Manipulating Files\Manipulating Files\bin\Debug\Manipulating Files.exe
+C:\Users\Seth\source\repos\Manipulating Files\Manipulating Files\bin\Debug\Manipulating Files.pdb
+C:\Users\Seth\source\repos\Manipulating Files\Manipulating Files\obj\Debug\Manipulating Files.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Manipulating Files\Manipulating Files\obj\Debug\Manipulating_Files.MainForm.resources
+C:\Users\Seth\source\repos\Manipulating Files\Manipulating Files\obj\Debug\Manipulating_Files.Properties.Resources.resources
+C:\Users\Seth\source\repos\Manipulating Files\Manipulating Files\obj\Debug\Manipulating Files.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Manipulating Files\Manipulating Files\obj\Debug\Manipulating Files.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Manipulating Files\Manipulating Files\obj\Debug\Manipulating Files.exe
+C:\Users\Seth\source\repos\Manipulating Files\Manipulating Files\obj\Debug\Manipulating Files.pdb

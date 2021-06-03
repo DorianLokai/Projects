@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\No Remainders\No Remainders\bin\Debug\No Remainders.exe.config
+C:\Users\Seth\source\repos\No Remainders\No Remainders\bin\Debug\No Remainders.exe
+C:\Users\Seth\source\repos\No Remainders\No Remainders\bin\Debug\No Remainders.pdb
+C:\Users\Seth\source\repos\No Remainders\No Remainders\obj\Debug\No Remainders.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\No Remainders\No Remainders\obj\Debug\No_Remainders.NoRemaindersForm.resources
+C:\Users\Seth\source\repos\No Remainders\No Remainders\obj\Debug\No_Remainders.Properties.Resources.resources
+C:\Users\Seth\source\repos\No Remainders\No Remainders\obj\Debug\No Remainders.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\No Remainders\No Remainders\obj\Debug\No Remainders.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\No Remainders\No Remainders\obj\Debug\No Remainders.exe
+C:\Users\Seth\source\repos\No Remainders\No Remainders\obj\Debug\No Remainders.pdb

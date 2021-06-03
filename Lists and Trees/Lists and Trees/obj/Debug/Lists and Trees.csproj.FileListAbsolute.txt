@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\Lists and Trees\Lists and Trees\bin\Debug\Lists and Trees.exe.config
+C:\Users\Seth\source\repos\Lists and Trees\Lists and Trees\bin\Debug\Lists and Trees.exe
+C:\Users\Seth\source\repos\Lists and Trees\Lists and Trees\bin\Debug\Lists and Trees.pdb
+C:\Users\Seth\source\repos\Lists and Trees\Lists and Trees\obj\Debug\Lists and Trees.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Lists and Trees\Lists and Trees\obj\Debug\Lists_and_Trees.ListsAndTreesForm.resources
+C:\Users\Seth\source\repos\Lists and Trees\Lists and Trees\obj\Debug\Lists_and_Trees.Properties.Resources.resources
+C:\Users\Seth\source\repos\Lists and Trees\Lists and Trees\obj\Debug\Lists and Trees.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Lists and Trees\Lists and Trees\obj\Debug\Lists and Trees.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Lists and Trees\Lists and Trees\obj\Debug\Lists and Trees.exe
+C:\Users\Seth\source\repos\Lists and Trees\Lists and Trees\obj\Debug\Lists and Trees.pdb

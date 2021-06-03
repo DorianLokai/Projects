@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse Paint", "Mouse Paint\Mouse Paint.csproj", "{08C92508-8A06-4834-A9AD-78D1A8FC83E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C92508-8A06-4834-A9AD-78D1A8FC83E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C92508-8A06-4834-A9AD-78D1A8FC83E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C92508-8A06-4834-A9AD-78D1A8FC83E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C92508-8A06-4834-A9AD-78D1A8FC83E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FB26D36-D312-48E9-B30A-E902EDA1E8DB}
+	EndGlobalSection
+EndGlobal
