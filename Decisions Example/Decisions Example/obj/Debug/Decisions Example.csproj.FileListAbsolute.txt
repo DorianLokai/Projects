@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\Decisions Example\Decisions Example\bin\Debug\Decisions Example.exe.config
+C:\Users\Seth\source\repos\Decisions Example\Decisions Example\bin\Debug\Decisions Example.exe
+C:\Users\Seth\source\repos\Decisions Example\Decisions Example\bin\Debug\Decisions Example.pdb
+C:\Users\Seth\source\repos\Decisions Example\Decisions Example\obj\Debug\Decisions Example.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Decisions Example\Decisions Example\obj\Debug\Decisions_Example.DecisionsForm.resources
+C:\Users\Seth\source\repos\Decisions Example\Decisions Example\obj\Debug\Decisions_Example.Properties.Resources.resources
+C:\Users\Seth\source\repos\Decisions Example\Decisions Example\obj\Debug\Decisions Example.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Decisions Example\Decisions Example\obj\Debug\Decisions Example.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Decisions Example\Decisions Example\obj\Debug\Decisions Example.exe
+C:\Users\Seth\source\repos\Decisions Example\Decisions Example\obj\Debug\Decisions Example.pdb
