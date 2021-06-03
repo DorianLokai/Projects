@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Dialog Example", "Custom Dialog Example\Custom Dialog Example.csproj", "{9E5DA92F-48E1-4275-AC14-62E6B5B0428A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E5DA92F-48E1-4275-AC14-62E6B5B0428A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5DA92F-48E1-4275-AC14-62E6B5B0428A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5DA92F-48E1-4275-AC14-62E6B5B0428A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5DA92F-48E1-4275-AC14-62E6B5B0428A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBF75D18-9631-4C87-8006-DABD187AF347}
+	EndGlobalSection
+EndGlobal

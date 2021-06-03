@@ -1,0 +1,11 @@
+C:\Users\Seth\source\repos\Automate Word\Automate Word\bin\Debug\Automate Word.exe.config
+C:\Users\Seth\source\repos\Automate Word\Automate Word\bin\Debug\Automate Word.exe
+C:\Users\Seth\source\repos\Automate Word\Automate Word\bin\Debug\Automate Word.pdb
+C:\Users\Seth\source\repos\Automate Word\Automate Word\obj\Debug\Automate Word.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Automate Word\Automate Word\obj\Debug\Automate Word.csproj.ResolveComReference.cache
+C:\Users\Seth\source\repos\Automate Word\Automate Word\obj\Debug\Automate_Word.MainForm.resources
+C:\Users\Seth\source\repos\Automate Word\Automate Word\obj\Debug\Automate_Word.Properties.Resources.resources
+C:\Users\Seth\source\repos\Automate Word\Automate Word\obj\Debug\Automate Word.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Automate Word\Automate Word\obj\Debug\Automate Word.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Automate Word\Automate Word\obj\Debug\Automate Word.exe
+C:\Users\Seth\source\repos\Automate Word\Automate Word\obj\Debug\Automate Word.pdb

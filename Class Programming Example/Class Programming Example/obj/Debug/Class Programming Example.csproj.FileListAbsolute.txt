@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\Class Programming Example\Class Programming Example\bin\Debug\Class Programming Example.exe.config
+C:\Users\Seth\source\repos\Class Programming Example\Class Programming Example\bin\Debug\Class Programming Example.exe
+C:\Users\Seth\source\repos\Class Programming Example\Class Programming Example\bin\Debug\Class Programming Example.pdb
+C:\Users\Seth\source\repos\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Class Programming Example\Class Programming Example\obj\Debug\Class_Programming_Example.ClassExampleForm.resources
+C:\Users\Seth\source\repos\Class Programming Example\Class Programming Example\obj\Debug\Class_Programming_Example.Properties.Resources.resources
+C:\Users\Seth\source\repos\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.exe
+C:\Users\Seth\source\repos\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.pdb
